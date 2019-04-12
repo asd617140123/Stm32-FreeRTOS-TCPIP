@@ -28,3 +28,4 @@
 
 ## Detailed configuration tutorial
 * CSDN Blog(https://blog.csdn.net/weixin_37673586/article/details/79253597) (CN)
+* https://zhuanlan.zhihu.com/p/31912186
