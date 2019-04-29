@@ -29,3 +29,4 @@
 ## Detailed configuration tutorial
 * CSDN Blog(https://blog.csdn.net/weixin_37673586/article/details/79253597) (CN)
 * https://zhuanlan.zhihu.com/p/31912186
+* https://istarc.wordpress.com/2014/07/02/stm32f4-template-project-with-generic-makefile/
